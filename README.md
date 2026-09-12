@@ -40,3 +40,14 @@ Recommendations
 Skills Practiced
 
 Power BI · DAX · Cohort Analysis · Customer Retention · Data Visualization · Business Analysis · Forecasting
+
+## Dashboard Preview
+
+### Customer Retention
+![Customer Retention](Customer%20Retention.png)
+
+### Customer Acquisition Drivers
+![Customer Acquisition Drivers](Customer%20Acquisition%20Drivers.png)
+
+### Customer Forecast
+![Customer Forecast](Customer%20Forecast.png)
