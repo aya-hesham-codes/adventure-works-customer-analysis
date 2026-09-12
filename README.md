@@ -47,7 +47,7 @@ Power BI · DAX · Cohort Analysis · Customer Retention · Data Visualization �
 ![Customer Retention](Customer%20Retention.png)
 
 ### Customer Acquisition Drivers
-![Customer Acquisition Drivers](Customer%20Acquisition%20Drivers.png)
+![Customer Acquisition Drivers](Customer%20Acquisition%20Drivers%20.png)
 
 ### Customer Forecast
 ![Customer Forecast](Customer%20Forecast.png)
